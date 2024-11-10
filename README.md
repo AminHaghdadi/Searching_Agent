@@ -4,7 +4,7 @@
 ![image](https://img.shields.io/badge/Wikipedia-000000.svg?style=for-the-badge&logo=Wikipedia&logoColor=white)
 ![image](https://img.shields.io/badge/arXiv-B31B1B.svg?style=for-the-badge&logo=arXiv&logoColor=white)
 
-Welcome to the AI Agent repository! This project leverages the power of LangGraph to build a multi-functional AI agent capable of efficiently retrieving information from three specialized sources: ArXiv, Tavily Search for general web search, and Wikipedia.
+This project leverages the power of LangGraph to build a multi-functional AI agent capable of efficiently retrieving information from three specialized sources: ArXiv, Tavily Search for general web search, and Wikipedia.
 Project Overview
 
 This repository provides an AI agent that uses an intelligent routing system to determine the best tool for the query at hand. Based on the nature of the input query, the agent dynamically selects from one of three available tools to retrieve accurate and relevant information:
